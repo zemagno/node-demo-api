@@ -8,6 +8,7 @@ var http           = require('http'),
 
 var app = express();
 
+
 var mongoHost = 'localHost';
 var mongoPort = 27017; 
 var mongoWrapper;
